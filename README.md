@@ -14,9 +14,9 @@ Not only professionaly, but in the personal area can change and make you be a be
         </a>          
         
 
-          <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blank">
-                    <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain"  width="100" height="60">
-                  </a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blank">
+          <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain"  width="100" height="60">
+        </a>
      
 
 
