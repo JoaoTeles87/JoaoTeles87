@@ -17,9 +17,8 @@ Not only professionaly, but in the personal area can change and make you be a be
     <div class="image-container">
         
             
-        </a>
-        <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" rel="nofollow"><img alt="Linkedin" src="https://camo.githubusercontent.com/1421b7b5e4ad4c5b62005833315a3e9f0f005ddad61f6a8b95c5b7467ba6dff2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3436613266312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-46a2f1.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-
+        
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" rel="nofollow"><img alt="Linkedin" src="https://camo.githubusercontent.com/1421b7b5e4ad4c5b62005833315a3e9f0f005ddad61f6a8b95c5b7467ba6dff2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3436613266312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-46a2f1.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
     </div>
 </body>
 </html>
