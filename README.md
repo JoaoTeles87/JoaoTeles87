@@ -10,8 +10,8 @@ Not only professionaly, but in the personal area can change and make you be a be
 <a href="https://www.instagram.com/joaonteles/" target="_blank">
           <img src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png" alt="Instagram pessoal" width="50" height="50">
         </a>                                             
-<a href="<jant@cin.ufpe.br>" target="_blank">
-          <img src="https://th.bing.com/th/id/OIP.-WyFwwAI9OGSS8_VOlwg3QHaFj?rs=1&pid=ImgDetMain" alt="Instagram pessoal" width="60" height="50">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blank">
+          <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain" alt="Instagram pessoal" width="60" height="50">
         </a>
      
 
