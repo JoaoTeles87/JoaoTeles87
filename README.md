@@ -8,7 +8,8 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 Not only professionaly, but in the personal area can change and make you be a better version of yourself.
 ## 📫 How to reach me : 
 <img loading="lazy" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="60" height="50"/> <img loading="lazy" src="https://1000logos.net/wp-content/uploads/2017/02/New-Instagram-logo.jpg" width="50" height="50"/> 
-jant@cin.ufpe.br                 @joaonteles
+
+jant@cin.ufpe.br      @joaonteles
 
 
 
