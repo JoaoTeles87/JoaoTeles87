@@ -10,12 +10,6 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 - Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
   
 ## My progress here so far / Meu progresso até agora:
-<a href="JoaoTeles87/"><img src="https://camo.githubusercontent.com/" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
-
-## 📫 How to reach me / Contatos : 
-
-
-
 name: Generate Snake
 
 
@@ -56,6 +50,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+## 📫 How to reach me / Contatos : 
+
 
 
 </head>
