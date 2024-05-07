@@ -11,7 +11,7 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
   
 ## My progress here so far / Meu progresso até agora:
 
-<a href="/JoaoTeles87/JoaoTeles87/blob/main/Top"><img src="https://camo.githubusercontent.com/bce12e2bf305b9c67090da259ddb08f95a0dd6b493cfed3c371c02cc95299f5f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761627269656c726f6368617373267468656d653d6461726b266c61796f75743d636f6d70616374" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
+<a href="/JoaoTeles87/JoaoTeles87/blob/main/Top"><img src="dist/github-contribution-grid-snake.gif" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
 <a href="#"><img src="https://camo.githubusercontent.com/cd4e7529cafa9be6d92c92cc6220057ebad79123b7a17516b6896af67bdc627e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6761627269656c726f6368617373267468656d653d6461726b266c61796f75743d636f6d70616374" width="418" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
 
 
