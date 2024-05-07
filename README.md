@@ -15,7 +15,47 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 ## 📫 How to reach me / Contatos : 
 
 
+# Gera a cobra que come commits
 
+name: Generate Snake
+
+on:
+  schedule:
+      # a cada 6 horas
+    - cron: "0 */6 * * *"
+
+# Isso permite executar a ação automaticamente a partir da guia Actions.
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: JoaoTeles87
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - run: git status
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 </head>
