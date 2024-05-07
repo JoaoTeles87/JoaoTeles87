@@ -7,17 +7,7 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 - 💞️ I’m looking to collaborate on creative and inspirang projects, because I want to be on the top f my professional career, and I know that they are really important on yours goals.
 Not only professionaly, but in the personal area can change and make you be a better version of yourself.
 ## 📫 How to reach me / Contatos : 
-<div class="link">
 
-<a href="https://www.instagram.com/joaonteles/" target="_blank">
-          <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" width="70" height="70">
-        </a>          
-        
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blue">
-          <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain"  width="100" height="60">
-        </a>
-</div>
 
 
 <!DOCTYPE html>
@@ -49,8 +39,8 @@ Not only professionaly, but in the personal area can change and make you be a be
         <a class="image-link" href="https://www.instagram.com/joaonteles/">
             <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 1">
         </a>
-        <a class="image-link" href="https://www.instagram.com/joaonteles/">
-            <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 2">
+        <a class="image-link" href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/">
+            <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain" alt="Imagem 2">
         </a>
     </div>
 </body>
