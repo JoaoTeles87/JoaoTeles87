@@ -20,6 +20,41 @@ Not only professionaly, but in the personal area can change and make you be a be
 </div>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 200px; /* Defina a altura desejada */
+        }
+
+        .image-link {
+            flex: 1;
+            text-align: center;
+        }
+
+        .image-link img {
+            max-height: 100%;
+            width: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <a class="image-link" href="https://www.instagram.com/joaonteles/">
+            <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 1">
+        </a>
+        <a class="image-link" href="https://www.instagram.com/joaonteles/">
+            <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 2">
+        </a>
+    </div>
+</body>
+</html>
 
 
 <!---
