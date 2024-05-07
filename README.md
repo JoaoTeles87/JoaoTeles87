@@ -11,24 +11,7 @@ Not only professionaly, but in the personal area can change and make you be a be
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        
-        .image-link {
-            flex: 1;
-            text-align: center;
-            text-decoration: none; /* Remova a decoração do link */
-        }
 
-        .image-link img {
-            max-height: 100%;
-            width: auto;
-        }
-    </style>
 </head>
 <body>
     <div class="image-container">
