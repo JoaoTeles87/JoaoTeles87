@@ -7,8 +7,8 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 - 💞️ I’m looking to collaborate on creative and inspirang projects, because I want to be on the top f my professional career, and I know that they are really important on yours goals.
 Not only professionaly, but in the personal area can change and make you be a better version of yourself.
 ## 📫 How to reach me : 
-<img loading="lazy" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" width="70" height="45"/> email: joao.nteles@ufpe.br 
-@joaonteles.
+<img loading="lazy" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" width="70" height="45"/> email: jant@cin.ufpe.br 
+<img loading="lazy" src="https://1000logos.net/wp-content/uploads/2017/02/New-Instagram-logo.jpg" width="70" height="45"/> @joaonteles.
 
 
 <!---
