@@ -4,7 +4,9 @@
 - 👀 My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football, watch games and praticing is part of my life.
 Watching movies and series is something that moves me too (Action, Sci-fi, Drama and Comedy shows).(●'◡'●)
 - 💞️ I’m looking to collaborate on creative and inspirang projects, because I want to be on the top f my professional career, and I know that they are really important on yours goals.
-- ##🧑‍💻 languages that i've already been in touch with:
+  
+## languages that i've already been in touch with:🧑‍💻
+
 - Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
 Not only professionaly, but in the personal area can change and make you be a better version of yourself.
 ## 📫 How to reach me / Contatos : 
