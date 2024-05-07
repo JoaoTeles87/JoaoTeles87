@@ -8,11 +8,11 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 Not only professionaly, but in the personal area can change and make you be a better version of yourself.
 ## 📫 How to reach me : 
 <a href="https://www.instagram.com/joaonteles/" target="_blank">
-          <img src="https://www.clipartmax.com/png/full/25-256843_instagram-logo-[new]-vector-eps-free-download-logo-instagram-logo-vector.png" alt="Instagram pessoal" width="50" height="50">
+          <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Instagram pessoal" width="60" height="60">
         </a>          
         
 <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blank">
-          <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain" alt="Instagram pessoal" width="90" height="50">
+          <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain" alt="Instagram pessoal" width="100" height="60">
         </a>
      
 
