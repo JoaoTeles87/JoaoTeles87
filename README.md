@@ -10,46 +10,9 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 - Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
   
 ## My progress here so far / Meu progresso até agora:
-name: Generate Snake
 
+<a href="/JoaoTeles87/JoaoTeles87/blob/main/Top"><img src="https://camo.githubusercontent.com/bce12e2bf305b9c67090da259ddb08f95a0dd6b493cfed3c371c02cc95299f5f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761627269656c726f6368617373267468656d653d6461726b266c61796f75743d636f6d70616374" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
 
-
-on:
-  schedule:
-      # a cada 6 horas
-    - cron: "0 */6 * * *"
-    
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: JoaoTeles87
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 ## 📫 How to reach me / Contatos : 
