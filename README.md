@@ -17,13 +17,7 @@ Not only professionaly, but in the personal area can change and make you be a be
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .image-container {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            height: 200px; /* Defina a altura desejada */
-        }
-
+        
         .image-link {
             flex: 1;
             text-align: center;
