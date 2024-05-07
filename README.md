@@ -15,16 +15,16 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 ## 📫 How to reach me / Contatos : 
 
 
-# Gera a cobra que come commits
 
 name: Generate Snake
+
+
 
 on:
   schedule:
       # a cada 6 horas
     - cron: "0 */6 * * *"
-
-# Isso permite executar a ação automaticamente a partir da guia Actions.
+    
   workflow_dispatch:
 
 jobs:
