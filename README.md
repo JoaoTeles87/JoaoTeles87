@@ -13,7 +13,7 @@ Not only professionaly, but in the personal area can change and make you be a be
           <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" width="70" height="70">
         </a>          
         
-</div>
+
           <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/" target="_blank">
                     <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain"  width="100" height="60">
                   </a>
