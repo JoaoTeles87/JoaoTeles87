@@ -1,6 +1,6 @@
 # 👋 Hi, I’m João Teles! / Oi, meu nome João Teles!
 
-- 🌱 I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="![RespectFootballGIF](https://github.com/JoaoTeles87/JoaoTeles87/assets/127795554/2bdc68fe-f879-4f5c-8847-9d7fc709299c)" alt="animação da torcida rubro-negra eufórica" width="21%" height="14%"> 
+- 🌱 I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="[RespectFootballGIF](https://github.com/JoaoTeles87/JoaoTeles87/assets/127795554/2bdc68fe-f879-4f5c-8847-9d7fc709299c)" alt="animação da torcida rubro-negra eufórica" width="21%" height="14%"> 
  4° period, and my next goal is to play "Cavaquinho" an instrument!!
 - 👀 My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football, watch games and praticing is part of my life.
 Watching movies and series is something that moves me too (Action, Sci-fi, Drama and Comedy shows).(●'◡'●)
