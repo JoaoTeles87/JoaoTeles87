@@ -15,7 +15,7 @@ Not only professionaly, but in the personal area can change and make you be a be
 <body>
     <div class="image-container">
         <a class="image-link" href="https://www.instagram.com/joaonteles/">
-            <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 1" width="70" height="70">
+            <img src="https://th.bing.com/th/id/OIP.wXoimLEX6hY7Ou1h5mBgfQHaHa?rs=1&pid=ImgDetMain" alt="Imagem 1" width="100" height="90">
         </a>
         <a class="image-link" href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-n-teles-ba9823279/">
             <img src="https://th.bing.com/th/id/OIP.roxl7_ihVieyNzcX_XQplAHaEK?w=768&h=432&rs=1&pid=ImgDetMain" alt="Imagem 2" width="100" height="60">
