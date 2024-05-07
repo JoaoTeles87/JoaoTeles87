@@ -10,7 +10,7 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 - Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
   
 ## My progress here so far / Meu progresso até agora:
-<a href="/gabrielrochass/JoaoTeles87/"><img src="https://camo.githubusercontent.com/bce12e2bf305b9c67090da259ddb08f95a0dd6b493cfed3c371c02cc95299f5f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761627269656c726f6368617373267468656d653d6461726b266c61796f75743d636f6d70616374" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
+<a href="JoaoTeles87/"><img src="https://camo.githubusercontent.com/" width="300" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrochass&amp;theme=dark&amp;layout=compact" style="max-width: 100%;"></a>
 
 ## 📫 How to reach me / Contatos : 
 
