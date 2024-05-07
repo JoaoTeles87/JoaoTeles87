@@ -5,10 +5,6 @@
 Watching movies and series is something that moves me too (Action, Sci-fi, Drama and Comedy shows).(●'◡'●)
 - 💞️ I’m looking to collaborate on creative and inspirang projects, because I want to be on the top f my professional career, and I know that they are really important on yours goals. Not only professionaly, but in the personal area can change and make you be a better version of yourself.
   
-## Languages that i've already been in touch with:🧑‍💻
-
-- Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
-  
 ## My progress here so far / Meu progresso até agora:
 
 <p align='left'>
@@ -16,6 +12,9 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="358" height = "300"></a>
 </p>
 
+## Languages that i've already been in touch with:🧑‍💻
+
+- Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
 
 ## 📫 How to reach me / Contatos : 
 
