@@ -12,8 +12,8 @@ Watching movies and series is something that moves me too (Action, Sci-fi, Drama
 ## My progress here so far / Meu progresso até agora:
 
 <p align='left'>
-  <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&theme=dark&layout=compact" width="300"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="418"></a>
+  <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&theme=dark&layout=compact" width="300" height = "300"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="418" height = "300"></a>
 </p>
 
 
