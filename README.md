@@ -1,4 +1,4 @@
-# 👋 Hi, I’m João Teles! / Oi, meu nome João Teles!
+# 👋 Hi, I’m João Teles! / Oi, eu sou o João Teles!
 
 - 🌱 I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_Brazil.png" alt="brazilian flag" width="4%" height="3%">, currently on the 4° period, and my next goal is to play "Cavaquinho" an instrument!!
 - 👀 My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football, watch games and praticing is part of my life.
