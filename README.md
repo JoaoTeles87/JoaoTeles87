@@ -1,18 +1,23 @@
 # 👋 Hi, I’m João Teles! / Oi, eu sou o João Teles!
 
-- 🌱 I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_Brazil.png" alt="brazilian flag" width="4%" height="3%">, currently on the 4° period, and my next goal is to play "Cavaquinho" an instrument!!
-- 👀 My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football, watch games and praticing is part of my life.
-Watching movies and series is something that moves me too (Action, Sci-fi, Drama and Comedy shows).(●'◡'●)
-- 💞️ I’m looking to collaborate on creative and inspirang projects, because I want to be on the top f my professional career, and I know that they are really important on yours goals. Not only professionaly, but in the personal area can change and make you be a better version of yourself.
-  
-## My progress here so far / Meu progresso até agora:
+- I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_Brazil.png" alt="brazilian flag" width="4%" height="3%">, currently on the 4° period, and my next goal is to play "Cavaquinho" an instrument!!
+- 🧗‍♀️ My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football and Footvolley, watch games and praticing is part of my life.
+Watching movies and series is something that moves me too.😍
+
+### My progress here so far / Meu progresso até agora:
   <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&theme=dark&layout=compact" width="300" ></a> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="358" ></a>
 
-## Languages that i've already been in touch with:🧑‍💻
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoTeles87&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoTeles87&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&hide=html,css,scss&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/JoaoTeles87/github-readme-stats)-->
+
+
+### Languages that i've already been in touch with:🧑‍💻
 
 - Python, HTML, CSS, R, C++, C, SQL, Java, Verilog, Assembly.
 
-## 📫 How to reach me / Contatos : 
+### 📫 How to reach me / Contatos : 
 
 </head>
 <body>
