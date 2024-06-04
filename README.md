@@ -19,8 +19,8 @@ Watching movies and series is something that moves me too.😍
 
 ### 📫 How to reach me / Contatos : 
      
-[![Linkedin](https://img.shields.io/badge/linkedin-46a2f1.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.instagram.com/joaonteles/) 
-[![Instagram](https://res.cloudinary.com/practicaldev/image/fetch/s--AO81Hx6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)](https://www.linkedin.com/in/jo%C3%A3o-teles-ba9823279/) 
+[![Linkedin](https://img.shields.io/badge/linkedin-46a2f1.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-teles-ba9823279/) 
+[![Instagram](https://res.cloudinary.com/practicaldev/image/fetch/s--AO81Hx6l--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite)](https://www.instagram.com/joaonteles/) 
 [![Gmail](https://res.cloudinary.com/practicaldev/image/fetch/s--E1O-Q5iM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26link%3Dmailto:mayannait%40gmail.com)](mailto:jant@cin.ufpe.br?subject=Hey&body=Hey%20Jo%C3%A3o%2C%20how%20are%20you%20doing%3F) 
 
 
