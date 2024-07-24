@@ -4,8 +4,9 @@
 - 🧗‍♀️ My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football and Footvolley, watch games and praticing is part of my life.
 Watching movies and series is something that moves me too.😍
 
-### My progress here so far / Meu progresso até agora:
-   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="358" ></a>
+## My progress here so far / Meu progresso até agora:
+  <a href="Top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles87&theme=dark&layout=compact" width="300" ></a> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoTeles87&theme=dark&layout=compact" width="358" ></a>
+
 
 ### GitHub Stats
 
