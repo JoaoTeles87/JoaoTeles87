@@ -1,6 +1,6 @@
 # 👋 Hi, I’m João Teles! / Oi, eu sou o João Teles!
 
-- I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_Brazil.png" alt="brazilian flag" width="4%" height="3%">, currently on the 4° period, and my next goal is to play "Cavaquinho" an instrument!!
+- I’m currently learning Computer Science of course 😁, at Federal University of Pernambuco in Brazil <img src="https://logos-download.com/wp-content/uploads/2021/07/Flag_of_Brazil.png" alt="brazilian flag" width="4%" height="3%">, currently on the 5° period, and my next goal is to be a canoeist!!
 - 🧗‍♀️ My hobbies are spend time with my familly and friends, i´m loved also with playing sports, specially Football and Footvolley, watch games and praticing is part of my life.
 Watching movies and series is something that moves me too.😍
 
